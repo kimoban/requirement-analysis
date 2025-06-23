@@ -99,7 +99,7 @@ Requirement Analysis is a fundamental phase in the software development lifecycl
 - View/Manage Bookings  
 - Manage Listings (Admin)
 
-![Use Case Diagram](alx-booking-uc.png)
+![Use Case Diagram]()
 
 ## ✅ Acceptance Criteria
 
